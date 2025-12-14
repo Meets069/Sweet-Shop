@@ -117,3 +117,14 @@ Test results will be displayed in the terminal with coverage details.
 
 ---
 
+
+##  Screenshots
+
+###  Login Page
+![Login Page](screenshots/login.png)
+
+###  Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+###  Admin Panel
+![Admin Panel](screenshots/admin.png)
